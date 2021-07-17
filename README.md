@@ -2,6 +2,7 @@
 - 部活での活動記録を残す
 
 ## ブログテンプレート
+ファイル名: year-month-day-title.md
 ```md
 ---
 title: <タイトル>
