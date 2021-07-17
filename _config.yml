@@ -1,1 +1,5 @@
+title: JSSC | Blog(仮)
+description: "20期科学部の実験記録（仮）"
 theme: jekyll-theme-slate
+baseurl: "https://jishukan-science-club.github.io/blog/"
+url: "https://jishukan-science-club.github.io/"
