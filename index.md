@@ -1,11 +1,8 @@
 # 20期科学部活動記録
 ## ブログ一覧
 <ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="blog/{{ post.url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
+  {% for post in site.posts reversed %}
+    <li><a href="blog/{{ post.url }}"> {{ post.title }}</a></li>
   {% endfor %}
 </ul>
 
