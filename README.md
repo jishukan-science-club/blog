@@ -6,6 +6,7 @@
 ```md
 ---
 title: <タイトル>
+description: <説明>
 author: <作者>
 layout: post
 ---
