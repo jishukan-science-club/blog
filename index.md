@@ -1,4 +1,5 @@
 # 20期科学部活動記録
+## [メインページ](https://jishukan-science-club.github.io/)
 ## ブログ一覧
 <ul>
   {% for post in site.posts %}
